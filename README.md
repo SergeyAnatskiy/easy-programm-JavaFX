@@ -1,2 +1,2 @@
 #laba1
-![Screenshot](Screenshot.png)
+![Screenshot](screenshot.png)
